@@ -1,0 +1,25 @@
+.pink {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirty-six {
+    font-size: 36px;
+}
+
+.twenty-four {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.green {
+    background-color: green;
+}
